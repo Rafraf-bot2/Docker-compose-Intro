@@ -2,7 +2,7 @@
 
 ## Context
 Cet API à été codé dans le but de se faire conteneuriser et orchestrer avec **Docker Compose**.
-L'app est disponible <a href="https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker/7540111-entrainez-vous-en-orchestrant-vos-images-docker-avec-docker-compose target="_blank">ici</a>.
+L'app est disponible <a href="https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker/7540111-entrainez-vous-en-orchestrant-vos-images-docker-avec-docker-compose "target="_blank">ici</a>.
 
 ## Requirements
 
